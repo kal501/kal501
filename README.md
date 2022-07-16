@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/kali--linux-brightgreen?style=flat&logo=Kail-Linux&logoColor=FCC624"/>
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-<img src="https://img.shields.io/badge/Kali-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624"/>
