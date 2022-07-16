@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=Kali%20Linux&logoColor=557C94"/>
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=Wireshark&logoColor=1679A7"/>
+<img src="https://img.shields.io/badge/Linux-black?style=flat&logo=Linux&logoColor=FCC624"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-black?style=flat&logo=Kali%20Linux&logoColor=557C94"/>
+<img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Wireshark-black?style=flat&logo=Wireshark&logoColor=1679A7"/>
