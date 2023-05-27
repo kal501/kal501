@@ -19,6 +19,7 @@
 <br>
 <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/vmware-607078?style=flat-square&logo=vmware&logoColor=white"/>
 <img src="https://img.shields.io/badge/virtualbox-183A61?style=flat-square&logo=virtualbox&logoColor=white"/>
 <br>
