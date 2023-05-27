@@ -1,4 +1,3 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=PlayGround&fontColor=b18fcf&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <!--
