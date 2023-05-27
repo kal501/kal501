@@ -14,7 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Linux-black?style=flat&logo=Linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-black?style=flat&logo=Kali%20Linux&logoColor=557C94"/>
-<img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/Wireshark-black?style=flat&logo=Wireshark&logoColor=1679A7"/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kal501&show_icons=true&theme=radical)
