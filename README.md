@@ -31,6 +31,18 @@
 <img src="https://img.shields.io/badge/AdobeAfterEffects-0E1128?style=flat-square&logo=adobeaftereffects&logoColor=white"/>
 <br>
 <br>
+<div style="display: flex; align-items: flex-start;">
+ 
+ <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
+ </div>
+<br>
 <br>
  <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kal501&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
@@ -41,4 +53,12 @@
  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sumin9827)](https://solved.ac/sumin9827)
   
+</div>
+
+
+<div style="display: flex; align-items: flex-start; justify-content: center;">
+ <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></div>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" height="58" />
 </div>
