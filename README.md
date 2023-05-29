@@ -56,9 +56,3 @@
 </div>
 
 
-<div style="display: flex; align-items: flex-start; justify-content: center;">
- <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /></div>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="58" height="58" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="58" height="58" />
-</div>
